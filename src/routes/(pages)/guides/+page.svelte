@@ -6,4 +6,5 @@
 	<title>Skatebit | Guides</title>
 </svelte:head>
 
+<h1>Guides</h1>
 <Lorem />

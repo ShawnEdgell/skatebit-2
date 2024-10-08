@@ -1,4 +1,3 @@
-<h1>Header 1</h1>
 <p>
 	AD AD Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus ultrices magna,
 	vel dictum erat semper vitae. Vivamus condimentum ultrices mattis. Praesent aliquam nibh ac lacus

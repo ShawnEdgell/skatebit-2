@@ -6,4 +6,5 @@
 	<title>Skatebit | Links</title>
 </svelte:head>
 
+<h1>Helpful Links</h1>
 <Lorem />

@@ -36,7 +36,7 @@
 		{#each channels as { name, playlistId }}
 			<button
 				on:click={() => (activePlaylistId = playlistId)}
-				class="btn btn-sm mr-2 mb-2 {activePlaylistId === playlistId
+				class="btn btn-sm lg:btn mr-2 mb-2 {activePlaylistId === playlistId
 					? 'bg-blue-700 text-white'
 					: 'bg-gray-200 text-gray-800'}"
 			>

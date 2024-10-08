@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Skatebit | Guides</title>
+	<title>Skatebit | Mods</title>
 </svelte:head>
 
 <Lorem />

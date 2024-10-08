@@ -16,7 +16,7 @@
 <svelte:head>
 	<link rel="preconnect" href="https://www.youtube.com" />
 	<link rel="preconnect" href="https://img.youtube.com" />
-	<title>Popland - Recent News</title>
+	<title>Skatebit</title>
 	<meta
 		name="description"
 		content="Discover the latest official updates, news, and videos from Skater XL, Session, Skate, and more—all in one place."

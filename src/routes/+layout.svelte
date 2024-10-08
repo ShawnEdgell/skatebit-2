@@ -1,8 +1,10 @@
 <script lang="ts">
 	import '../app.postcss';
-	import { AppShell, initializeStores, Drawer } from '@skeletonlabs/skeleton';
+	import { AppShell, initializeStores, Drawer, storePopup } from '@skeletonlabs/skeleton';
+	import { computePosition, autoUpdate, offset, shift, flip, arrow } from '@floating-ui/dom';
 	import AppBar from '../components/AppBar.svelte';
 
+	storePopup.set({ computePosition, autoUpdate, offset, shift, flip, arrow });
 	initializeStores();
 </script>
 

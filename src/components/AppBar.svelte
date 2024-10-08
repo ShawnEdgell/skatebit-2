@@ -35,12 +35,14 @@
 		</button>
 
 		<!-- Skatebit title (on larger screens) -->
-		<a href="/" class="hidden md:block btn p-0 font-extrabold">SKATEBIT</a>
+		<a href="/" class="hidden md:block btn p-0 font-extrabold italic">SKATEBIT</a>
 	</svelte:fragment>
 
 	<!-- Center Title (visible only on mobile) -->
-	<a href="/" class="block md:hidden btn p-0 font-extrabold" data-sveltekit-preload-data="hover"
-		>SKATEBIT</a
+	<a
+		href="/"
+		class="block md:hidden btn p-0 font-extrabold italic"
+		data-sveltekit-preload-data="hover">SKATEBIT</a
 	>
 
 	<!-- Centered Navigation Links (visible only on larger screens) -->

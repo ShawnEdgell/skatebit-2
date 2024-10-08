@@ -20,11 +20,7 @@
 
 <div class="mb-8">
 	<h2 class="text-xl font-semibold">{video.title}</h2>
-	<p
-		class="text-sm text-gray-500"
-		class:mb-2={video.description?.trim()}
-		class:mb-4={!video.description?.trim()}
-	>
+	<p class="text-sm" class:mb-2={video.description?.trim()} class:mb-4={!video.description?.trim()}>
 		{new Date(video.publishedAt).toLocaleDateString('en-US', {
 			month: 'long',
 			day: 'numeric',
